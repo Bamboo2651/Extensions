@@ -3,6 +3,8 @@
 ## 概要
 
 開いているWebページを解析して、使用されている技術スタックを可視化するChrome拡張機能です。
+<img width="322" height="502" alt="image" src="https://github.com/user-attachments/assets/da5eeb4d-fc22-4f66-a4c3-6135836bb592" />
+
 
 ## 検出できる技術
 
