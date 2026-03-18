@@ -40,7 +40,8 @@ document.getElementById('checkBtn').addEventListener('click', async function () 
                 database: { label: 'DB / API', icon: '' },
                 infra: { label: 'インフラ', icon: '' },
                 font: { label: 'フォント', icon: '' },
-            }; svgを入れる
+            };
+            // icon''のところにsvgまたは画像を入れる予定
 
             let totalCount = 0;
             let htmlText = '';
